@@ -1,2 +1,2 @@
 # CDN
-public CDN for my web projects 
+Public CDN for files
